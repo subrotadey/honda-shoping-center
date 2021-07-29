@@ -9,11 +9,20 @@ body{
 button{
     background-color: #E76F51;
 }
-
-/* button design */
 .header-bg-info{
     background-color:  #264653;
 }
 .feature-img{
     filter: grayscale(100%);
+}
+
+.text-color{
+    color: #E76F51;
+}
+.bg-color{
+    background-color: #E76F51;
+}
+
+.footer-bg{
+    background-color: #0B0D17;
 }
